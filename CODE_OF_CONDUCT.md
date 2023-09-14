@@ -1,1 +1,6 @@
-This is code of conduct from the .github repo
+
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+## Our Standards
