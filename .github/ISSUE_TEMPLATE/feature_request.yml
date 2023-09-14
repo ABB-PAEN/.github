@@ -2,3 +2,14 @@ name: Feature Raport
 description: Feature request
 title: "[Feature]: "
 labels: ["feature"]
+
+body:
+- type: textarea
+    id: feature-id
+    attributes:
+      label: feature-label
+      description: feature-description
+      placeholder: feature-placeholder!
+      value: "feature-value"
+    validations:
+      required: true

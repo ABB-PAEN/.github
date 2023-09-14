@@ -2,3 +2,14 @@ name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
+
+body:
+- type: textarea
+    id: bug-id
+    attributes:
+      label: bug-label
+      description: bug-description
+      placeholder: bug-placeholder!
+      value: "bug-value"
+    validations:
+      required: true
