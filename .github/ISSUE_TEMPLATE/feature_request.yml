@@ -20,4 +20,4 @@ body:
       placeholder: Tell us what feature you want to see!
       value: ""
     validations:
-      required: true
+      required: false
