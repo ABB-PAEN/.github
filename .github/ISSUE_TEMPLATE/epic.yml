@@ -3,7 +3,7 @@ description: Use tasklists to split up a larger piece of work into multiple task
 title: "Epic"
 
 labels:
-  - feature
+  - type/epic
   
 body:
   - type: markdown
