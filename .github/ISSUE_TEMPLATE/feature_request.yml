@@ -1,12 +1,9 @@
 name: Feature Request
 description: Feature Request
-title: "REPLACE ME"
+title: "clear and concise title"
 labels:
   - feature
-projects:
-  -
-assignees:
-  - 
+  
 body:
   - type: markdown
     attributes:
@@ -15,20 +12,11 @@ body:
 
   - type: textarea
     attributes:
-      label: Description
+      label: Describe the solution you would like
       description: |
-        A clear and concise description of the feature you're interested in.
+        A clear and concise description of what you want to happen.
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Alternatives
-      description: |
-        Describe alternatives you've considered.
-        A clear and concise description of any alternative solutions or features you've considered.
-    validations:
-      required: false
 
   - type: textarea
     attributes:
