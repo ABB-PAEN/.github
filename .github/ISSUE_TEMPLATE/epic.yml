@@ -36,6 +36,7 @@ body:
           ### My tasks
           - [ ] https://github.com/octo-org/octo-repo/issues/45
           - [ ] Draft task
+          - [ ] #23
           - [ ] [Design new landing page](https://github.com/octocat/octoproject/issues/4)
           - [ ] [Translate content into supported languages](https://github.com/octocat/octoproject/issues/11)
         ```
