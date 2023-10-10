@@ -23,13 +23,6 @@ body:
     attributes:
       label: Tasklist
       description: |
-        Tasklist
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: |
         ```
           **example task list**
           [tasklist]
@@ -40,3 +33,5 @@ body:
           - [ ] [Design new landing page](https://github.com/octocat/octoproject/issues/4)
           - [ ] [Translate content into supported languages](https://github.com/octocat/octoproject/issues/11)
         ```
+    validations:
+      required: true
