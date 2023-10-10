@@ -18,6 +18,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        **Remember to add screenshots or images that supports or describes the feature**
+        
   - type: textarea
     attributes:
       label: Additional Context
