@@ -2,7 +2,7 @@ name: 🐞 Bug
 description: File a bug report
 title: "bug"
 labels: 
-  - "bug"
+  - "type/bug"
   - "triage"
 
 body:
