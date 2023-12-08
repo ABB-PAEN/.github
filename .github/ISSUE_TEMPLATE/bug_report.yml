@@ -1,6 +1,6 @@
 name: 🐞 Bug
 description: File a bug report
-title: "bug"
+title: "[BUG]"
 labels: 
   - "type/bug"
   - "triage"
