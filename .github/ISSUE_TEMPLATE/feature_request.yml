@@ -2,7 +2,7 @@ name: 🚀 Feature Request
 description: Feature Request
 title: "[FEATURE] clear and concise title"
 labels:
-  - enhancement
+  - type/enhancement
   
 body:
   - type: markdown
