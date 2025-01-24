@@ -6,11 +6,6 @@ labels:
   - type/epic
   
 body:
-  - type: markdown
-    attributes:
-      value: |
-        **Epic**
-
   - type: textarea
     attributes:
       label: Describe the Epic
