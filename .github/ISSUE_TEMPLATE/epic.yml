@@ -1,6 +1,6 @@
 name: 💫 Epic
 description: Use tasklists to split up a larger piece of work into multiple tasklists and multiple subtasks.
-title: "Epic"
+title: "[Epic] "
 
 labels:
   - type/epic
@@ -16,22 +16,5 @@ body:
       label: Describe the Epic
       description: |
         A clear and concise description of the epic.
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: Tasklist
-      description: |
-        ```
-          **example task list**
-          [tasklist]
-          ### My tasks
-          - [ ] https://github.com/octo-org/octo-repo/issues/45
-          - [ ] Draft task
-          - [ ] #23
-          - [ ] [Design new landing page](https://github.com/octocat/octoproject/issues/4)
-          - [ ] [Translate content into supported languages](https://github.com/octocat/octoproject/issues/11)
-        ```
     validations:
       required: true
